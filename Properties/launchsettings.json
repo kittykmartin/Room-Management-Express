@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Room_Management_Express (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Room_Management_Express (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
