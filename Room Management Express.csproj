@@ -45,7 +45,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Room Management Express.Core\Room_Management_Express.Core.csproj" />
+    <ProjectReference Include="..\Room Management Express Core\Room_Management_Express.Core.csproj" />
     
   </ItemGroup>
   <ItemGroup>
